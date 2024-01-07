@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(HTML):Добавлено описание мета-тега">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +81,7 @@
       <workItem from="1704626429748" duration="115000" />
       <workItem from="1704626557575" duration="755000" />
       <workItem from="1704627324308" duration="1458000" />
-      <workItem from="1704631708246" duration="625000" />
+      <workItem from="1704631708246" duration="2399000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -171,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704632330629</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat(HTML):Добавлено описание мета-тега">
+      <option name="closed" value="true" />
+      <created>1704632628725</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704632628725</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(HTML):Добавлено описание мета-тега">
+      <option name="closed" value="true" />
+      <created>1704632655611</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704632655611</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +219,30 @@
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
       <map>
+        <entry key="53c462">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/HTML.md" />
+                </list>
+              </option>
+              <option name="id" value="53c462" />
+              <option name="initiateTms" value="1704633778383" />
+              <option name="request" value="Какая разница между селекторами идентификаторов и классов в CSS?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="В CSS существуют два основных типа селекторов: селекторы идентификаторов и селекторы классов. Разница между ними заключается в том, как они выбирают и применяют стили к элементам на веб-странице.&#10;&#10;1. Селекторы идентификаторов (#): Селекторы идентификаторов используются для выбора элементов на основе их уникального идентификатора. Идентификаторы задаются с помощью атрибута `id` в HTML-элементах. Каждый идентификатор должен быть уникальным на странице. Пример использования селектора идентификатора в CSS:&#10;&#10;```css&#10;#myElement {&#10;  color: red;&#10;}&#10;```&#10;&#10;В этом примере стиль `color: red` будет применен только к элементу с идентификатором `myElement`.&#10;&#10;2. Селекторы классов (.): Селекторы классов используются для выбора элементов на основе их класса. Классы задаются с помощью атрибута `class` в HTML-элементах. Один и тот же класс может быть применен к нескольким элементам на странице. Пример использования селектора класса в CSS:&#10;&#10;```css&#10;.myClass {&#10;  font-size: 16px;&#10;}&#10;```&#10;&#10;В этом примере стиль `font-size: 16px` будет применен ко всем элементам с классом `myClass`.&#10;&#10;Основная разница между селекторами идентификаторов и классов заключается в их специфичности и применении. Селекторы идентификаторов имеют более высокий уровень специфичности, поэтому они имеют больший приоритет при применении стилей. Классы могут быть использованы для группировки элементов с общими стилями и применения стилей к ним одновременно.&#10;&#10;Важно отметить, что использование селекторов идентификаторов должно быть ограничено только когда это необходимо для уникального стилизации конкретного элемента, в то время как селекторы классов могут быть использованы для стилизации групп элементов с общими стилями." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1704633789674" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/HTML.md" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="7bd8d2">
           <value>
             <ChatHistoryModel>
