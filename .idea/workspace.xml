@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="refactor(Javascript): Изменил опесание">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(HTML):Добавлено описание мета-тега">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.md" afterDir="false" />
     </list>
@@ -81,7 +81,7 @@
       <workItem from="1704626429748" duration="115000" />
       <workItem from="1704626557575" duration="755000" />
       <workItem from="1704627324308" duration="1458000" />
-      <workItem from="1704631708246" duration="318000" />
+      <workItem from="1704631708246" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -163,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704627049207</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat(HTML):Добавлено описание мета-тега">
+      <option name="closed" value="true" />
+      <created>1704632330629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704632330629</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +197,8 @@
     <MESSAGE value="feat: Добавил описание Promise" />
     <MESSAGE value="feat: Добавил папки .md" />
     <MESSAGE value="refactor(Javascript): Изменил опесание" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor(Javascript): Изменил опесание" />
+    <MESSAGE value="feat(HTML):Добавлено описание мета-тега" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(HTML):Добавлено описание мета-тега" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
