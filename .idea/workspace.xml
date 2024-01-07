@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat: Добавил папки .md">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="refactor(Javascript): Изменил опесание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML.md" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,9 @@
       <workItem from="1704626059343" duration="287000" />
       <workItem from="1704626358534" duration="61000" />
       <workItem from="1704626429748" duration="115000" />
-      <workItem from="1704626557575" duration="426000" />
+      <workItem from="1704626557575" duration="755000" />
+      <workItem from="1704627324308" duration="1458000" />
+      <workItem from="1704631708246" duration="318000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -153,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704623320646</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="refactor(Javascript): Изменил опесание">
+      <option name="closed" value="true" />
+      <created>1704627049207</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704627049207</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +188,8 @@
     <MESSAGE value="feat: Добавил описаник Symbol" />
     <MESSAGE value="feat: Добавил описание Promise" />
     <MESSAGE value="feat: Добавил папки .md" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Добавил папки .md" />
+    <MESSAGE value="refactor(Javascript): Изменил опесание" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor(Javascript): Изменил опесание" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
