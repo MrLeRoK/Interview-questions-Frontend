@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat: Добавил описаник Symbol" />
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat: Добавил описание Promise">
+      <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +56,7 @@
       <workItem from="1704549461292" duration="1788000" />
       <workItem from="1704555191108" duration="407000" />
       <workItem from="1704555609521" duration="206000" />
+      <workItem from="1704617341014" duration="436000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -103,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704555721936</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: Добавил описание Promise">
+      <option name="closed" value="true" />
+      <created>1704617516845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704617516845</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +137,7 @@
     <MESSAGE value="refactor: изменино название md" />
     <MESSAGE value="refactor: изменено название md" />
     <MESSAGE value="feat: Добавил описаник Symbol" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Добавил описаник Symbol" />
+    <MESSAGE value="feat: Добавил описание Promise" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Добавил описание Promise" />
   </component>
 </project>
