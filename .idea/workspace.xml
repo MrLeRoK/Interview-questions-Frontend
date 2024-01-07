@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(HTML):Добавлено описание мета-тега">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(CSS):Добавлено описание селектор в css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,8 @@
       <workItem from="1704626429748" duration="115000" />
       <workItem from="1704626557575" duration="755000" />
       <workItem from="1704627324308" duration="1458000" />
-      <workItem from="1704631708246" duration="2399000" />
+      <workItem from="1704631708246" duration="4060000" />
+      <workItem from="1704646532241" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -187,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704632655611</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat(CSS):Добавлено описание Псевдоклассов">
+      <option name="closed" value="true" />
+      <created>1704634647539</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704634647539</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat(CSS):Добавлено описание селектор в css">
+      <option name="closed" value="true" />
+      <created>1704634876826</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704634876826</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +230,9 @@
     <MESSAGE value="feat: Добавил папки .md" />
     <MESSAGE value="refactor(Javascript): Изменил опесание" />
     <MESSAGE value="feat(HTML):Добавлено описание мета-тега" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(HTML):Добавлено описание мета-тега" />
+    <MESSAGE value="feat(CSS):Добавлено описание Псевдоклассов" />
+    <MESSAGE value="feat(CSS):Добавлено описание селектор в css" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(CSS):Добавлено описание селектор в css" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
