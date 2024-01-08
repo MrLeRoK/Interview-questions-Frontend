@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание типов данных">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="refactor(docs-js, promise): изменено описание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/CSS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alex-/OneDrive/Рабочий стол/Machinet/lib/instrumented-machinet-idea-plugin-2022.1.57.jar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Rainbow Brackets&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -72,20 +71,8 @@
       <workItem from="1704549461292" duration="1788000" />
       <workItem from="1704555191108" duration="407000" />
       <workItem from="1704555609521" duration="206000" />
-      <workItem from="1704617341014" duration="3903000" />
-      <workItem from="1704625643438" duration="243000" />
-      <workItem from="1704625896906" duration="86000" />
-      <workItem from="1704625996429" duration="53000" />
-      <workItem from="1704626059343" duration="287000" />
-      <workItem from="1704626358534" duration="61000" />
-      <workItem from="1704626429748" duration="115000" />
-      <workItem from="1704626557575" duration="755000" />
-      <workItem from="1704627324308" duration="1458000" />
-      <workItem from="1704631708246" duration="4060000" />
-      <workItem from="1704646532241" duration="2040000" />
-      <workItem from="1704654643634" duration="483000" />
-      <workItem from="1704706606727" duration="1780000" />
-      <workItem from="1704711444534" duration="1376000" />
+      <workItem from="1704617341014" duration="2503000" />
+      <workItem from="1704714227259" duration="4414000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -151,87 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704617837848</updated>
     </task>
-    <task id="LOCAL-00009" summary="feat: Добавил папки .md">
+    <task id="LOCAL-00009" summary="refactor(docs-js, promise): изменено описание">
       <option name="closed" value="true" />
-      <created>1704623320646</created>
+      <created>1704717413217</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1704623320646</updated>
+      <updated>1704717413217</updated>
     </task>
-    <task id="LOCAL-00010" summary="refactor(Javascript): Изменил опесание">
-      <option name="closed" value="true" />
-      <created>1704627049207</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1704627049207</updated>
-    </task>
-    <task id="LOCAL-00011" summary="feat(HTML):Добавлено описание мета-тега">
-      <option name="closed" value="true" />
-      <created>1704632330629</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1704632330629</updated>
-    </task>
-    <task id="LOCAL-00012" summary="feat(HTML):Добавлено описание мета-тега">
-      <option name="closed" value="true" />
-      <created>1704632628725</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1704632628725</updated>
-    </task>
-    <task id="LOCAL-00013" summary="feat(HTML):Добавлено описание мета-тега">
-      <option name="closed" value="true" />
-      <created>1704632655611</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1704632655611</updated>
-    </task>
-    <task id="LOCAL-00014" summary="feat(CSS):Добавлено описание Псевдоклассов">
-      <option name="closed" value="true" />
-      <created>1704634647539</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1704634647539</updated>
-    </task>
-    <task id="LOCAL-00015" summary="feat(CSS):Добавлено описание селектор в css">
-      <option name="closed" value="true" />
-      <created>1704634876826</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1704634876826</updated>
-    </task>
-    <task id="LOCAL-00016" summary="refactor(CSS):Изменино описание селектор в css">
-      <option name="closed" value="true" />
-      <created>1704654041186</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1704654041186</updated>
-    </task>
-    <task id="LOCAL-00017" summary="feat(JavaScript):Добавлено описание типов данных">
-      <option name="closed" value="true" />
-      <created>1704711399343</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1704711399343</updated>
-    </task>
-    <task id="LOCAL-00018" summary="feat(JavaScript):Добавлено описание типов данных">
-      <option name="closed" value="true" />
-      <created>1704712047093</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1704712047093</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,127 +170,7 @@
     <MESSAGE value="refactor: изменено название md" />
     <MESSAGE value="feat: Добавил описаник Symbol" />
     <MESSAGE value="feat: Добавил описание Promise" />
-    <MESSAGE value="feat: Добавил папки .md" />
-    <MESSAGE value="refactor(Javascript): Изменил опесание" />
-    <MESSAGE value="feat(HTML):Добавлено описание мета-тега" />
-    <MESSAGE value="feat(CSS):Добавлено описание Псевдоклассов" />
-    <MESSAGE value="feat(CSS):Добавлено описание селектор в css" />
-    <MESSAGE value="refactor(CSS):Изменино описание селектор в css" />
-    <MESSAGE value="feat(JavaScript):Добавлено описание типов данных" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание типов данных" />
-  </component>
-  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
-    <option name="historyDtoById">
-      <map>
-        <entry key="53c462">
-          <value>
-            <ChatHistoryModel>
-              <option name="contextFilesPaths">
-                <list>
-                  <option value="$PROJECT_DIR$/HTML.md" />
-                </list>
-              </option>
-              <option name="id" value="53c462" />
-              <option name="initiateTms" value="1704633778383" />
-              <option name="request" value="Какая разница между селекторами идентификаторов и классов в CSS?" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="В CSS существуют два основных типа селекторов: селекторы идентификаторов и селекторы классов. Разница между ними заключается в том, как они выбирают и применяют стили к элементам на веб-странице.&#10;&#10;1. Селекторы идентификаторов (#): Селекторы идентификаторов используются для выбора элементов на основе их уникального идентификатора. Идентификаторы задаются с помощью атрибута `id` в HTML-элементах. Каждый идентификатор должен быть уникальным на странице. Пример использования селектора идентификатора в CSS:&#10;&#10;```css&#10;#myElement {&#10;  color: red;&#10;}&#10;```&#10;&#10;В этом примере стиль `color: red` будет применен только к элементу с идентификатором `myElement`.&#10;&#10;2. Селекторы классов (.): Селекторы классов используются для выбора элементов на основе их класса. Классы задаются с помощью атрибута `class` в HTML-элементах. Один и тот же класс может быть применен к нескольким элементам на странице. Пример использования селектора класса в CSS:&#10;&#10;```css&#10;.myClass {&#10;  font-size: 16px;&#10;}&#10;```&#10;&#10;В этом примере стиль `font-size: 16px` будет применен ко всем элементам с классом `myClass`.&#10;&#10;Основная разница между селекторами идентификаторов и классов заключается в их специфичности и применении. Селекторы идентификаторов имеют более высокий уровень специфичности, поэтому они имеют больший приоритет при применении стилей. Классы могут быть использованы для группировки элементов с общими стилями и применения стилей к ним одновременно.&#10;&#10;Важно отметить, что использование селекторов идентификаторов должно быть ограничено только когда это необходимо для уникального стилизации конкретного элемента, в то время как селекторы классов могут быть использованы для стилизации групп элементов с общими стилями." />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1704633789674" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/HTML.md" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="7bd8d2">
-          <value>
-            <ChatHistoryModel>
-              <option name="contextFilesPaths">
-                <list>
-                  <option value="$PROJECT_DIR$/JavaScript.md" />
-                </list>
-              </option>
-              <option name="id" value="7bd8d2" />
-              <option name="initiateTms" value="1704626695678" />
-              <option name="request" value="Проверь еще раз" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="Извините за путаницу. Вот содержимое файла JavaScript.md:&#10;&#10;```markdown&#10;# JavaScript&#10;&#10;&lt;details&gt;&#10;&lt;summary&gt;Типы данных&lt;/summary&gt;&#10;&#10;null.&#10;undefined.&#10;boolean.&#10;number.&#10;string.&#10;object&#10;Символ (symbol) - примитивный тип данных,использующийся для создания уникальных идентификаторов.&#10;Символы создаются вызовом функции Symbol (), в которую можно передать описание (имя) символа.&#10;BigInt.&#10;&#10;&lt;/details&gt;&#10;&#10;&lt;details&gt;&#10;&lt;summary&gt;Что такое Promise?&lt;/summary&gt;&#10;&#10;Промис (Promise) — специальный объект JavaScript, который используется для написания и&#10;обработки асинхронного кода. Асинхронные функции возвращают объект Promise в качестве значения.&#10;Внутри промиса работает асинхронная операция,&#10;которая управляет его состоянием.&#10;Промис может находиться в одном из трёх состояний&#10;: pending — стартовое состояние, операция стартовала; fulfilled — получен результат; rejected — ошибка.&#10;&#10;На promise можно навешивать колбэки двух типов:&#10;&#10;* onFulfilled – срабатывают, когда promise в состоянии «выполнен успешно».&#10;* onRejected – срабатывают, когда promise в состоянии «выполнен с ошибкой».&#10;&#10;&lt;/details&gt;&#10;```&#10;&#10;Файл JavaScript.md содержит информацию о типах данных в JavaScript и о промисах (Promise). В разделе &quot;Типы данных&quot; перечислены различные типы данных, такие как null, undefined, boolean, number, string, object, символ (symbol) и BigInt. В разделе &quot;Что такое Promise?&quot; объясняется, что промис - это специальный объект JavaScript, используемый для написания и обработки асинхронного кода. Он может находиться в трех состояниях: pending, fulfilled и rejected, и на него можно навешивать колбэки для обработки успешного выполнения или ошибки.&#10;&#10;Если у вас есть какие-либо вопросы или нужна помощь с этой информацией, я готов помочь!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1704626703151" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/JavaScript.md" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="d05013">
-          <value>
-            <ChatHistoryModel>
-              <option name="contextFilesPaths">
-                <list>
-                  <option value="$PROJECT_DIR$/React.md" />
-                </list>
-              </option>
-              <option name="id" value="d05013" />
-              <option name="initiateTms" value="1704626608327" />
-              <option name="request" value="Что лежит в JavaScript.md " />
-              <option name="response" value="" />
-              <option name="responseDescription" value="Давайте проверим содержимое файла JavaScript.md. Откроем его и посмотрим, что там есть.### Файл JavaScript.md&#10;&#10;```markdown&#10;# JavaScript&#10;&#10;## Введение в JavaScript&#10;&#10;JavaScript - это язык программирования, который широко используется для создания интерактивных веб-страниц. Он позволяет добавлять динамическое поведение к веб-сайтам, взаимодействовать с пользователем и многое другое.&#10;&#10;## Основы JavaScript&#10;&#10;### Переменные&#10;&#10;В JavaScript переменные объявляются с помощью ключевого слова `var`, `let` или `const`. Например:&#10;&#10;```javascript&#10;var name = 'John';&#10;let age = 25;&#10;const PI = 3.14;&#10;```&#10;&#10;### Условные операторы&#10;&#10;JavaScript имеет несколько условных операторов, таких как `if`, `else if` и `switch`. Они позволяют выполнять различные действия в зависимости от условий. Например:&#10;&#10;```javascript&#10;let num = 10;&#10;&#10;if (num &gt; 0) {&#10;  console.log('Число положительное');&#10;} else if (num &lt; 0) {&#10;  console.log('Число отрицательное');&#10;} else {&#10;  console.log('Число равно нулю');&#10;}&#10;```&#10;&#10;### Циклы&#10;&#10;JavaScript поддерживает несколько типов циклов, таких как `for`, `while` и `do-while`. Они позволяют выполнять повторяющиеся действия. Например:&#10;&#10;```javascript&#10;for (let i = 0; i &lt; 5; i++) {&#10;  console.log(i);&#10;}&#10;&#10;let i = 0;&#10;while (i &lt; 5) {&#10;  console.log(i);&#10;  i++;&#10;}&#10;&#10;let j = 0;&#10;do {&#10;  console.log(j);&#10;  j++;&#10;} while (j &lt; 5);&#10;```&#10;&#10;### Функции&#10;&#10;В JavaScript функции объявляются с помощью ключевого слова `function`. Они позволяют группировать код для выполнения определенных действий. Например:&#10;&#10;```javascript&#10;function greet(name) {&#10;  console.log('Привет, ' + name + '!');&#10;}&#10;&#10;greet('John');&#10;```&#10;&#10;## Заключение&#10;&#10;Это лишь небольшой обзор основ JavaScript. Язык имеет множество других возможностей и функций, которые могут быть использованы для разработки сложных приложений.&#10;```&#10;&#10;В файле JavaScript.md содержится информация о JavaScript, включая введение в язык, основные концепции, такие как переменные, условные операторы, циклы и функции, а также заключение, где упоминается, что JavaScript имеет множество других возможностей и функций, которые могут быть использованы для разработки сложных приложений.&#10;&#10;Если у вас есть какие-либо вопросы или нужна помощь с JavaScript, я готов помочь!" />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1704626631253" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/React.md" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="f2c6dc">
-          <value>
-            <ChatHistoryModel>
-              <option name="contextFilesPaths">
-                <list>
-                  <option value="$PROJECT_DIR$/JavaScript.md" />
-                </list>
-              </option>
-              <option name="id" value="f2c6dc" />
-              <option name="initiateTms" value="1704626665119" />
-              <option name="request" value="Что лежит в JavaScript.md" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="Извините за путаницу. В предыдущем ответе я предоставил неправильную информацию о содержимом файла JavaScript.md. Позвольте мне проверить его содержимое еще раз.Извините за путаницу. В предыдущем ответе я предоставил неправильную информацию о содержимом файла JavaScript.md. Позвольте мне проверить его содержимое еще раз." />
-              <option name="responseFileName" value="" />
-              <option name="responseFilePath" value="" />
-              <option name="responseTms" value="1704626678758" />
-              <option name="usedLocalFilePaths">
-                <list>
-                  <option value="$PROJECT_DIR$/JavaScript.md" />
-                </list>
-              </option>
-            </ChatHistoryModel>
-          </value>
-        </entry>
-        <entry key="greeting">
-          <value>
-            <ChatHistoryModel>
-              <option name="id" value="greeting" />
-              <option name="initiateTms" value="1704626551238" />
-              <option name="request" value="" />
-              <option name="response" value="" />
-              <option name="responseDescription" value="&#10;Hello, I am Machinet AI - context aware chat, which can help you with your daily programming routine. How can I help?" />
-              <option name="responseTms" value="1704626554067" />
-            </ChatHistoryModel>
-          </value>
-        </entry>
-      </map>
-    </option>
+    <MESSAGE value="refactor(docs-js, promise): изменено описание" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor(docs-js, promise): изменено описание" />
   </component>
 </project>
