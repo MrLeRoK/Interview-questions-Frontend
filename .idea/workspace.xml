@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat: Добавил описание Promise">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="refactor(docs-js, promise): изменено описание">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
     </list>
@@ -72,7 +72,7 @@
       <workItem from="1704555191108" duration="407000" />
       <workItem from="1704555609521" duration="206000" />
       <workItem from="1704617341014" duration="2503000" />
-      <workItem from="1704714227259" duration="2861000" />
+      <workItem from="1704714227259" duration="4414000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704617837848</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="refactor(docs-js, promise): изменено описание">
+      <option name="closed" value="true" />
+      <created>1704717413217</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704717413217</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +170,7 @@
     <MESSAGE value="refactor: изменено название md" />
     <MESSAGE value="feat: Добавил описаник Symbol" />
     <MESSAGE value="feat: Добавил описание Promise" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Добавил описание Promise" />
+    <MESSAGE value="refactor(docs-js, promise): изменено описание" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor(docs-js, promise): изменено описание" />
   </component>
 </project>
