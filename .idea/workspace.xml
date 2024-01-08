@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(CSS):Добавлено описание селектор в css">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="refactor(CSS):Изменино описание селектор в css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,9 @@
       <workItem from="1704626557575" duration="755000" />
       <workItem from="1704627324308" duration="1458000" />
       <workItem from="1704631708246" duration="4060000" />
-      <workItem from="1704646532241" duration="1263000" />
+      <workItem from="1704646532241" duration="2040000" />
+      <workItem from="1704654643634" duration="483000" />
+      <workItem from="1704706606727" duration="1590000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -203,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704634876826</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="refactor(CSS):Изменино описание селектор в css">
+      <option name="closed" value="true" />
+      <created>1704654041186</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704654041186</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +243,8 @@
     <MESSAGE value="feat(HTML):Добавлено описание мета-тега" />
     <MESSAGE value="feat(CSS):Добавлено описание Псевдоклассов" />
     <MESSAGE value="feat(CSS):Добавлено описание селектор в css" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(CSS):Добавлено описание селектор в css" />
+    <MESSAGE value="refactor(CSS):Изменино описание селектор в css" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor(CSS):Изменино описание селектор в css" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
