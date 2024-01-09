@@ -38,9 +38,10 @@
 * reject – срабатывают, когда promise в состоянии «выполнен с ошибкой».
 
 #### Промис создаётся с помощью конструктора:
- > const promise = new **Promise**((resolve, reject) => {
-  ...
-  });
+ ```js
+ const promise = new Promise((resolve, reject) => ({...
+}));
+ ```
 
 #### Методы объекта Promise
  - **`Promise.all()`** - используют, 
@@ -91,6 +92,76 @@ Promise.race([slow, fast, theFastest])
 </details>
 
 
+</details>
+
+<details>
+    <summary>Как this работает в JavaScript.</summary>
+
+В JavaScript ключевое слово _**this**_ используется для ссылки на текущий объект, 
+в контексте которого выполняется код. Значение this зависит от того, как вызывается функция.
+
+#### Глобальный контекст:
+* Если _**this**_ используется вне функции или объекта, оно ссылается 
+на глобальный объект, который, в браузере, обычно является объектом window.
+```js
+console.log(this); // В глобальном контексте, например, в браузере, это будет объект window
+
+```
+#### Внутри функции:
+* Значение _**this**_ внутри функции зависит от того, как функция была вызвана.
+
+#### В строгом режиме( '_**use strict**_ ' ):
+В строгом режиме this внутри функции, вызванной без контекста, будет **undefined**.
+```js
+'use strict';
+function showThis() {
+  console.log(this); // undefined
+}
+showThis();
+```
+#### Не в строгом режиме:
+В нестрогом режиме _**this**_ внутри функции, вызванной без контекста, будет ссылаться на глобальный объект.
+```js
+function showThis() {
+  console.log(this); // window (в браузере)
+}
+showThis();
+```
+#### Вызов функции как метода объекта:
+Когда функция вызывается как метод объекта, _**this**_ ссылается на сам объект.
+```js
+const obj = {
+  name: 'Example',
+  showName: function() {
+    console.log(this.name); // Example
+  }
+};
+obj.showName();
+```
+#### Вызов функции с использованием call, apply или bind:
+Методы _**call**_, _**apply**_ или _**bind**_ позволяют установить явный контекст вызова для функции.
+```js
+function sayHi() {
+  console.log(`Hello, ${this.name}!`);
+}
+
+const person = { name: 'John' };
+
+sayHi.call(person); // Hello, John!
+sayHi.apply(person); // Hello, John!
+
+const boundFunc = sayHi.bind(person);
+boundFunc(); // Hello, John!
+```
+#### В стрелочных функциях:
+Стрелочные функции не создают свой собственный контекст _**this**_ и заимствуют его у окружающего кода.
+```js
+const arrowFunction = () => {
+  console.log(this); // Зависит от контекста, в котором была объявлена стрелочная функция
+};
+arrowFunction();
+```
+Использование _**this**_ может иногда быть запутанным, поэтому важно понимать, как оно ведет себя в различных сценариях вызова функций.
 </details>
 
 
