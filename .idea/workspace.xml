@@ -92,6 +92,8 @@
       <workItem from="1704899196242" duration="1861000" />
       <workItem from="1704907070326" duration="88000" />
       <workItem from="1705079649208" duration="94000" />
+      <workItem from="1705167315373" duration="657000" />
+      <workItem from="1705168061979" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -261,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704899849973</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="feat(JavaScript):Добавлено описание event loop и его работы в JavaScript">
+      <option name="closed" value="true" />
+      <created>1705167362537</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1705167362537</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
