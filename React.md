@@ -1,8 +1,6 @@
 # React
 
 <details>
-    <summary>Пока пусто!</summary>
-
-
+    <summary></summary>
 
 </details>
