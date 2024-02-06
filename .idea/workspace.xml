@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(React):Добавлено описание React" />
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание&#10;Babel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React.md" beforeDir="false" afterPath="$PROJECT_DIR$/React.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +103,7 @@
       <workItem from="1707205652354" duration="2262000" />
       <workItem from="1707228588366" duration="220000" />
       <workItem from="1707228819703" duration="583000" />
+      <workItem from="1707229415842" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -373,7 +377,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707229362394</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="feat(JavaScript):Добавлено описание&#10;Babel">
+      <option name="closed" value="true" />
+      <created>1707229682026</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1707229682026</updated>
+    </task>
+    <task id="LOCAL-00036" summary="feat(JavaScript):Добавлено описание&#10;Babel">
+      <option name="closed" value="true" />
+      <created>1707229705409</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1707229705409</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +411,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Добавлены типы данных в JS" />
     <MESSAGE value="refactor: изменино название md" />
     <MESSAGE value="refactor: изменено название md" />
     <MESSAGE value="feat: Добавил описаник Symbol" />
@@ -416,11 +435,36 @@
     <MESSAGE value="feat(JavaScript):Добавлено описание Prototype" />
     <MESSAGE value="feat(JavaScript):Добавлено описание структуры HTTP запроса" />
     <MESSAGE value="feat(React):Добавлено описание React" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(React):Добавлено описание React" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание&#10;Babel" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание&#10;Babel" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
       <map>
+        <entry key="0acf8b">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/React.md" />
+                </list>
+              </option>
+              <option name="id" value="0acf8b" />
+              <option name="initiateTms" value="1707230667460" />
+              <option name="request" value="Как ставить цифры в файле md" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="В файле Markdown (`.md`), цифры можно использовать для создания нумерованных списков или для обозначения порядка элементов в тексте. Вот несколько способов использования цифр в файле Markdown:&#10;&#10;1. Нумерованный список: Чтобы создать нумерованный список, просто начните каждую строку с числа, за которым следует точка и пробел. Например:&#10;&#10;```&#10;1. Первый элемент списка&#10;2. Второй элемент списка&#10;3. Третий элемент списка&#10;```&#10;&#10;Результат будет выглядеть следующим образом:&#10;&#10;1. Первый элемент списка&#10;2. Второй элемент списка&#10;3. Третий элемент списка&#10;&#10;2. Порядковые номера: Если вам нужно просто указать порядок элементов в тексте, вы можете использовать числа без точки и пробела. Например:&#10;&#10;```&#10;1. Первый шаг&#10;2. Второй шаг&#10;3. Третий шаг&#10;```&#10;&#10;Результат будет выглядеть следующим образом:&#10;&#10;1. Первый шаг&#10;2. Второй шаг&#10;3. Третий шаг&#10;&#10;3. Встроенные числа: Если вам нужно использовать числа внутри текста без создания списка, просто напишите числа без точки и пробела. Например:&#10;&#10;```&#10;Это предложение содержит число 42.&#10;```&#10;&#10;Результат будет выглядеть следующим образом:&#10;&#10;Это предложение содержит число 42.&#10;&#10;Важно отметить, что в Markdown цифры не автоматически увеличиваются или нумеруются, поэтому вам нужно самостоятельно следить за правильным порядком и нумерацией элементов." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707230684475" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/React.md" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="53c462">
           <value>
             <ChatHistoryModel>
