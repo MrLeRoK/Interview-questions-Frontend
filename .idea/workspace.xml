@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание Prototype">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание структуры HTTP запроса">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React.md" beforeDir="false" afterPath="$PROJECT_DIR$/React.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,9 @@
       <workItem from="1706097465484" duration="18000" />
       <workItem from="1706773049983" duration="7649000" />
       <workItem from="1707043463998" duration="13000" />
-      <workItem from="1707205652354" duration="624000" />
+      <workItem from="1707205652354" duration="2262000" />
+      <workItem from="1707228588366" duration="220000" />
+      <workItem from="1707228819703" duration="380000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -357,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706782143312</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feat(JavaScript):Добавлено описание структуры HTTP запроса">
+      <option name="closed" value="true" />
+      <created>1707206837166</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1707206837166</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +410,8 @@
     <MESSAGE value="feat(JavaScript):Удалено повторное описание" />
     <MESSAGE value="feat(JavaScript):Изменино описание HTTP" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание Prototype" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание структуры HTTP запроса" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание структуры HTTP запроса" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
