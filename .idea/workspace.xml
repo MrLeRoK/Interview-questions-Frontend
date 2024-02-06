@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание Javascript">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание Prototype">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,9 @@
       <workItem from="1705312500470" duration="1956000" />
       <workItem from="1706037554351" duration="7000" />
       <workItem from="1706097465484" duration="18000" />
-      <workItem from="1706773049983" duration="1916000" />
+      <workItem from="1706773049983" duration="7649000" />
+      <workItem from="1707043463998" duration="13000" />
+      <workItem from="1707205652354" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -308,7 +309,55 @@
       <option name="project" value="LOCAL" />
       <updated>1706773790641</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="feat(JavaScript):Добавлено описание Типы Function и их отличия">
+      <option name="closed" value="true" />
+      <created>1706778066569</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1706778066569</updated>
+    </task>
+    <task id="LOCAL-00028" summary="feat(JavaScript):Добавлено описание Асинхронности">
+      <option name="closed" value="true" />
+      <created>1706778831598</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1706778831598</updated>
+    </task>
+    <task id="LOCAL-00029" summary="feat(JavaScript):Добавлено описание Полифил">
+      <option name="closed" value="true" />
+      <created>1706779619235</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1706779619235</updated>
+    </task>
+    <task id="LOCAL-00030" summary="feat(JavaScript):Добавлено описание Полифил">
+      <option name="closed" value="true" />
+      <created>1706779874872</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1706779874872</updated>
+    </task>
+    <task id="LOCAL-00031" summary="feat(JavaScript):Удалено повторное описание">
+      <option name="closed" value="true" />
+      <created>1706780157002</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1706780157002</updated>
+    </task>
+    <task id="LOCAL-00032" summary="feat(JavaScript):Добавлено описание Prototype">
+      <option name="closed" value="true" />
+      <created>1706782143312</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1706782143312</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +392,14 @@
     <MESSAGE value="feat(JavaScript):Добавлено описание event loop и его работы в JavaScript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание методов Promise" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Javascript" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание Javascript" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание Типы Function и их отличия" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание Асинхронности" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание Полифил" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание HTTP" />
+    <MESSAGE value="feat(JavaScript):Удалено повторное описание" />
+    <MESSAGE value="feat(JavaScript):Изменино описание HTTP" />
+    <MESSAGE value="feat(JavaScript):Добавлено описание Prototype" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание Prototype" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
