@@ -1,5 +1,7 @@
 # JavaScript
 
+[!NOTE]
+
 <details>
     <summary>Что такое Javascript</summary>
       
