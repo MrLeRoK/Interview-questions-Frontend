@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание&#10;Babel">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(React):Добавлено описание различия Функционального и Классового подхода">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/React.md" beforeDir="false" afterPath="$PROJECT_DIR$/React.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,13 @@
       <workItem from="1707205652354" duration="2262000" />
       <workItem from="1707228588366" duration="220000" />
       <workItem from="1707228819703" duration="583000" />
-      <workItem from="1707229415842" duration="2989000" />
+      <workItem from="1707229415842" duration="4296000" />
+      <workItem from="1707246142655" duration="518000" />
+      <workItem from="1707384510208" duration="813000" />
+      <workItem from="1707717462431" duration="10000" />
+      <workItem from="1708332489724" duration="2527000" />
+      <workItem from="1708347376827" duration="13000" />
+      <workItem from="1710083724442" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -393,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707229705409</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="feat(React):Добавлено описание различия Функционального и Классового подхода">
+      <option name="closed" value="true" />
+      <created>1707233472234</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1707233472234</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +425,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: изменино название md" />
     <MESSAGE value="refactor: изменено название md" />
     <MESSAGE value="feat: Добавил описаник Symbol" />
     <MESSAGE value="feat: Добавил описание Promise" />
@@ -436,7 +449,8 @@
     <MESSAGE value="feat(JavaScript):Добавлено описание структуры HTTP запроса" />
     <MESSAGE value="feat(React):Добавлено описание React" />
     <MESSAGE value="feat(JavaScript):Добавлено описание&#10;Babel" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание&#10;Babel" />
+    <MESSAGE value="feat(React):Добавлено описание различия Функционального и Классового подхода" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(React):Добавлено описание различия Функционального и Классового подхода" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
