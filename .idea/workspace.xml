@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(JavaScript):Добавлено описание Рекурсия" />
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(Фреймворки-Библиотеки ):Добавлен фаил md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Фреймворки-Библиотеки.md" beforeDir="false" afterPath="$PROJECT_DIR$/Фреймворки-Библиотеки.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +111,7 @@
       <workItem from="1708332489724" duration="2527000" />
       <workItem from="1708347376827" duration="13000" />
       <workItem from="1710083724442" duration="1818000" />
+      <workItem from="1710338756320" duration="1977000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -413,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710084594198</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="feat(Фреймворки-Библиотеки ):Добавлен фаил md">
+      <option name="closed" value="true" />
+      <created>1710338942618</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1710338942618</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -431,7 +443,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Добавил описаник Symbol" />
     <MESSAGE value="feat: Добавил описание Promise" />
     <MESSAGE value="feat: Добавил папки .md" />
     <MESSAGE value="refactor(Javascript): Изменил опесание" />
@@ -456,7 +467,8 @@
     <MESSAGE value="feat(JavaScript):Добавлено описание&#10;Babel" />
     <MESSAGE value="feat(React):Добавлено описание различия Функционального и Классового подхода" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Рекурсия" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(JavaScript):Добавлено описание Рекурсия" />
+    <MESSAGE value="feat(Фреймворки-Библиотеки ):Добавлен фаил md" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(Фреймворки-Библиотеки ):Добавлен фаил md" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
