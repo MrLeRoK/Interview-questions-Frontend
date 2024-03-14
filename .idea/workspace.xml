@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(Фреймворки-Библиотеки ):Добавлено описания Redux">
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(Фреймворки-Библиотеки ):Добавлено описания CI/CD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Фреймворки-Библиотеки.md" beforeDir="false" afterPath="$PROJECT_DIR$/Фреймворки-Библиотеки.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +113,7 @@
       <workItem from="1710338756320" duration="3645000" />
       <workItem from="1710356295007" duration="8000" />
       <workItem from="1710369359391" duration="36000" />
-      <workItem from="1710410886992" duration="1744000" />
+      <workItem from="1710410886992" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -436,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710343233423</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="feat(Фреймворки-Библиотеки ):Добавлено описания CI/CD">
+      <option name="closed" value="true" />
+      <created>1710412862477</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1710412862477</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Добавил папки .md" />
     <MESSAGE value="refactor(Javascript): Изменил опесание" />
     <MESSAGE value="feat(HTML):Добавлено описание мета-тега" />
     <MESSAGE value="feat(CSS):Добавлено описание Псевдоклассов" />
@@ -479,7 +485,8 @@
     <MESSAGE value="feat(JavaScript):Добавлено описание Рекурсия" />
     <MESSAGE value="feat(Фреймворки-Библиотеки ):Добавлен фаил md" />
     <MESSAGE value="feat(Фреймворки-Библиотеки ):Добавлено описания Redux" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(Фреймворки-Библиотеки ):Добавлено описания Redux" />
+    <MESSAGE value="feat(Фреймворки-Библиотеки ):Добавлено описания CI/CD" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(Фреймворки-Библиотеки ):Добавлено описания CI/CD" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
