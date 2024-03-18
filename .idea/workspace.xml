@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(Фреймворки-Библиотеки): Добавлено описания Jest">
-      <change afterPath="$PROJECT_DIR$/TypeScript.md" afterDir="false" />
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Добавлено описания TypeScript">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TypeScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/TypeScript.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,8 @@
       <workItem from="1710439717072" duration="5925000" />
       <workItem from="1710615959415" duration="126000" />
       <workItem from="1710693608475" duration="328000" />
-      <workItem from="1710757276395" duration="637000" />
+      <workItem from="1710757276395" duration="821000" />
+      <workItem from="1710759629665" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -488,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710445855246</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="feat(TypeScript): Добавлено описания TypeScript">
+      <option name="closed" value="true" />
+      <created>1710757970030</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1710757970030</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor(CSS):Изменино описание селектор в css" />
     <MESSAGE value="feat(JavaScript):Добавлено описание типов данных" />
     <MESSAGE value="refactor(CSS):Добавлено описание работает this в JavaScript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание event loop и его работы в JavaScript" />
@@ -531,7 +539,8 @@
     <MESSAGE value="feat(JavaScript): Добавлено описания WebSocket" />
     <MESSAGE value="feat(Фреймворки-Библиотеки): Добавлено описания Electron" />
     <MESSAGE value="feat(Фреймворки-Библиотеки): Добавлено описания Jest" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(Фреймворки-Библиотеки): Добавлено описания Jest" />
+    <MESSAGE value="feat(TypeScript): Добавлено описания TypeScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Добавлено описания TypeScript" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
