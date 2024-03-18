@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Добавлено описания infer" />
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Изменино описания infer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,14 +117,7 @@
       <workItem from="1710693608475" duration="328000" />
       <workItem from="1710757276395" duration="821000" />
       <workItem from="1710759629665" duration="1269000" />
-    </task>
-    <task id="LOCAL-00002" summary="feat: Добавлены типы данных в JS">
-      <option name="closed" value="true" />
-      <created>1704550686176</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1704550686176</updated>
+      <workItem from="1710761255315" duration="854000" />
     </task>
     <task id="LOCAL-00003" summary="refactor: изменено название md">
       <option name="closed" value="true" />
@@ -510,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710760788070</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="feat(TypeScript): Изменино описания infer">
+      <option name="closed" value="true" />
+      <created>1710761350712</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1710761350713</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(JavaScript):Добавлено описание event loop и его работы в JavaScript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание методов Promise" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Javascript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Типы Function и их отличия" />
@@ -553,7 +553,8 @@
     <MESSAGE value="feat(TypeScript): Добавлено описания TypeScript" />
     <MESSAGE value="feat(TypeScript): Добавлено описания Types and Interfaces" />
     <MESSAGE value="feat(TypeScript): Добавлено описания infer" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Добавлено описания infer" />
+    <MESSAGE value="feat(TypeScript): Изменино описания infer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Изменино описания infer" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
