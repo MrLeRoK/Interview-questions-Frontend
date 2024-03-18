@@ -116,15 +116,7 @@
       <workItem from="1710615959415" duration="126000" />
       <workItem from="1710693608475" duration="328000" />
       <workItem from="1710757276395" duration="821000" />
-      <workItem from="1710759629665" duration="1044000" />
-    </task>
-    <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
-      <option name="closed" value="true" />
-      <created>1704550575238</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1704550575238</updated>
+      <workItem from="1710759629665" duration="1269000" />
     </task>
     <task id="LOCAL-00002" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -510,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710760658312</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="feat(TypeScript): Добавлено описания infer">
+      <option name="closed" value="true" />
+      <created>1710760788069</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1710760788070</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

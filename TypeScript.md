@@ -86,20 +86,6 @@ function exampleFunction(): string {
 type ResultType = ExtractReturnType<typeof exampleFunction>; // Тип ResultType будет string
 
 ```
-
-В TypeScript ключевое слово infer используется в контексте обобщений (generics) для вывода типов. Это позволяет автоматически определить тип данных на основе переданных значений. Обычно infer используется внутри ключевого слова extends в обобщении.
-
-Пример использования infer:
-
-typescript
-Copy code
-type ExtractReturnType<T> = T extends (...args: any[]) => infer R ? R : never;
-
-function exampleFunction(): string {
-return "Hello, TypeScript!";
-}
-
-type ResultType = ExtractReturnType<typeof exampleFunction>; // Тип ResultType будет string
 В приведенном выше примере ExtractReturnType - это обобщенный тип, который принимает функцию в качестве параметра (T). С использованием infer мы проверяем, является ли T функцией (через T extends (...args: any[]) => infer R). Если это так, то тип R (возвращаемый тип функции) присваивается типу ResultType.
 
 Таким образом, ResultType станет типом возвращаемого значения функции exampleFunction, в данном случае - string.
