@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Добавлено описания TypeScript">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TypeScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/TypeScript.md" afterDir="false" />
-    </list>
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Добавлено описания infer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +116,7 @@
       <workItem from="1710615959415" duration="126000" />
       <workItem from="1710693608475" duration="328000" />
       <workItem from="1710757276395" duration="821000" />
-      <workItem from="1710759629665" duration="736000" />
+      <workItem from="1710759629665" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Добавлены типы данных в JS">
       <option name="closed" value="true" />
@@ -497,7 +494,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710757970030</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="feat(TypeScript): Добавлено описания Types and Interfaces">
+      <option name="closed" value="true" />
+      <created>1710760433117</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1710760433117</updated>
+    </task>
+    <task id="LOCAL-00049" summary="feat(TypeScript): Добавлено описания infer">
+      <option name="closed" value="true" />
+      <created>1710760658312</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1710760658312</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,8 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(JavaScript):Добавлено описание типов данных" />
-    <MESSAGE value="refactor(CSS):Добавлено описание работает this в JavaScript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание event loop и его работы в JavaScript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание методов Promise" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Javascript" />
@@ -540,7 +551,9 @@
     <MESSAGE value="feat(Фреймворки-Библиотеки): Добавлено описания Electron" />
     <MESSAGE value="feat(Фреймворки-Библиотеки): Добавлено описания Jest" />
     <MESSAGE value="feat(TypeScript): Добавлено описания TypeScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Добавлено описания TypeScript" />
+    <MESSAGE value="feat(TypeScript): Добавлено описания Types and Interfaces" />
+    <MESSAGE value="feat(TypeScript): Добавлено описания infer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Добавлено описания infer" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
