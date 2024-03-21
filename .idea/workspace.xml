@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Изменино описания infer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bbef3590-4813-486f-ae13-69f865e4ca9f" name="Changes" comment="feat(TypeScript): Изменино описания Jest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,22 +119,7 @@
       <workItem from="1710759629665" duration="1269000" />
       <workItem from="1710761255315" duration="1464000" />
       <workItem from="1710769398268" duration="10000" />
-    </task>
-    <task id="LOCAL-00004" summary="feat: Добавил описаник Symbol">
-      <option name="closed" value="true" />
-      <created>1704555523227</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1704555523227</updated>
-    </task>
-    <task id="LOCAL-00005" summary="feat: Добавил описаник Symbol">
-      <option name="closed" value="true" />
-      <created>1704555622725</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1704555622726</updated>
+      <workItem from="1710837496528" duration="173000" />
     </task>
     <task id="LOCAL-00006" summary="feat: Добавил описаник Symbol">
       <option name="closed" value="true" />
@@ -514,7 +497,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710764904961</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="feat(TypeScript): Изменино описания Jest">
+      <option name="closed" value="true" />
+      <created>1710837546967</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1710837546967</updated>
+    </task>
+    <task id="LOCAL-00054" summary="feat(TypeScript): Изменино описания Jest">
+      <option name="closed" value="true" />
+      <created>1710837630679</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1710837630679</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat(JavaScript):Добавлено описание методов Promise" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Javascript" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Типы Function и их отличия" />
     <MESSAGE value="feat(JavaScript):Добавлено описание Асинхронности" />
@@ -557,7 +555,8 @@
     <MESSAGE value="feat(TypeScript): Добавлено описания Types and Interfaces" />
     <MESSAGE value="feat(TypeScript): Добавлено описания infer" />
     <MESSAGE value="feat(TypeScript): Изменино описания infer" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Изменино описания infer" />
+    <MESSAGE value="feat(TypeScript): Изменино описания Jest" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(TypeScript): Изменино описания Jest" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
